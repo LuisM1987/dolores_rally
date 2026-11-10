@@ -19,5 +19,4 @@ flutter test --reporter expanded
 flutter run -d chrome                      
 flutter run                                
 
-**Total: 47 pruebas** → 43 del manual + 4 extra de calidad del catálogo. Marca cada resultado con ✅ cuando
-`flutter test` las muestre en verde.
+<img width="394" height="224" alt="image" src="https://github.com/user-attachments/assets/feb4eae5-7cb2-44d8-bb87-66f12cf9e7b2" />
