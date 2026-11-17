@@ -5,7 +5,8 @@
 - **Grupo / Fecha:** 09/11/2026
 
 # Captura
-<img width="394" height="224" alt="image" src="https://github.com/user-attachments/assets/feb4eae5-7cb2-44d8-bb87-66f12cf9e7b2" />
+<img width="398" height="183" alt="image" src="https://github.com/user-attachments/assets/e493168c-1203-4836-b9eb-5cf718da0c5e" />
+
 ## Cómo ejecutar
 ```bash
 flutter create --platforms=android,web .   
